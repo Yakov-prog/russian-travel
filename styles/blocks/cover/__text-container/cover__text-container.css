@@ -1,0 +1,23 @@
+.cover__text-container {
+  margin: 20.69% auto 0;
+  position: relative;
+  color: #FFFFFF;
+}
+
+@media (max-width: 1024px) {
+  .cover__text-container {
+    margin: 19.04% auto 0;
+  }
+}
+
+@media (max-width: 768px) {
+  .cover__text-container {
+    margin-top: 14.97%;
+  }
+}
+
+@media (max-width: 320px) {
+  .cover__text-container {
+    margin-top: 10.31%;
+  }
+}

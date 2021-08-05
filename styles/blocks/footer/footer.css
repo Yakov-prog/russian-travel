@@ -1,0 +1,27 @@
+.footer {
+  max-width: 92.5%;
+  display: flex;
+  justify-content: space-between;
+  padding-bottom: 24px;
+  margin: 0 auto;
+}
+
+@media (max-width: 1024px) {
+  .footer {
+    max-width: 90.62%;
+  }
+}
+
+@media (max-width: 768px) {
+  .footer {
+    max-width: 93.75%;
+  }
+}
+
+@media (max-width: 600px) {
+  .footer {
+    display: grid;
+    grid-template-columns: repeat(1, minmax(80px, 1fr));
+    margin: 0 0 0 5%;
+  }
+}
