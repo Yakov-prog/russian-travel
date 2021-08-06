@@ -1,4 +1,4 @@
-.places__image {
+.two-columns__image {
   max-width: 460px;
   max-height: 460px;
   grid-column: 1 / 2;
@@ -6,25 +6,25 @@
 }
 
 @media (max-width: 1024px) {
-  .places__image {
+  .two-columns__image {
     width: 98.3%;
   }
 }
 
 @media (max-width: 768px) {
-  .places__image {
+  .two-columns__image {
     width: 98.3%;
   }
 }
 
 @media (max-width: 600px) {
-  .places__image {
+  .two-columns__image {
     grid-row: 3 / 4;
   }
 }
 
 @media (max-width: 320px) {
-  .places__image {
+  .two-columns__image {
     width: 100%;
   }
 }
