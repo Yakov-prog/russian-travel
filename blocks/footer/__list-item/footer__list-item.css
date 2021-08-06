@@ -1,7 +1,3 @@
-.footer__list-item {
-  display: inline-block;
-}
-
 .footer__list-item:not(:last-child) {
   margin-right: 18px;
 }
