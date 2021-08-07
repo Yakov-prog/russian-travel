@@ -1,0 +1,17 @@
+@media (max-width: 768px) {
+  .grid-list__item {
+    max-height: 264px;
+  }
+}
+
+@media (max-width: 615px) {
+  .grid-list__item {
+    max-height: 450px;
+  }
+}
+
+@media (max-width: 320px) {
+  .grid-list__item {
+    max-height: 216px;
+  }
+}

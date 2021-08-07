@@ -20,3 +20,11 @@
     margin-top: 32px;
   }
 }
+
+@media (max-width: 320px) {
+  .two-columns__paragraph {
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+  }
+}
