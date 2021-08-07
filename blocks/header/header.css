@@ -1,6 +1,5 @@
 .header {
   width: 92.5%;
-  height: 52px;
   display: flex;
   justify-content: space-between;
   margin: 0 auto;
@@ -28,8 +27,6 @@
 
 @media  (max-width: 320px) {
   .header {
-    width: 90%;
-    max-height: 42px;
     padding-top: 16px;
   }
 }

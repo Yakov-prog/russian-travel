@@ -11,12 +11,6 @@
   }
 }
 
-@media (max-width: 768px) {
-  .two-columns__image {
-    width: 98.3%;
-  }
-}
-
 @media (max-width: 600px) {
   .two-columns__image {
     grid-row: 3 / 4;

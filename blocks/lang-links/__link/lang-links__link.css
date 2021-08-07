@@ -4,12 +4,16 @@
   line-height: 28px;
   font-size: 24px;
   font-weight: 400;
+  transition: opacity .2s linear .1s;
+}
+
+.lang-links__link:hover {
+  opacity: .8;
 }
 
 @media  (max-width: 320px) {
   .lang-links__link {
     line-height: 20px;
     font-size: 18px;
-    font-weight: 400;
   }
 }
