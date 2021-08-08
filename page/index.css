@@ -26,6 +26,7 @@
 @import url(../blocks/two-columns/two-columns.css);
 @import url(../blocks/two-columns/__item/two-columns__item.css);
 @import url(../blocks/two-columns/__title/two-columns__title.css);
+@import url(../blocks/two-columns/__title/_one-row/two-columns__title_one-row.css);
 @import url(../blocks/two-columns/__paragraph/two-columns__paragraph.css);
 @import url(../blocks/two-columns/__image/two-columns__image.css);
 @import url(../blocks/two-columns/__link-container/two-columns__link-container.css);
