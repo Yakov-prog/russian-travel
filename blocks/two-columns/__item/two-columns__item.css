@@ -12,7 +12,7 @@
 
 @media  (max-width: 768px) {
   .two-columns__item  {
-    column-gap: 28px;
+    column-gap: 20px;
   }
 }
 
